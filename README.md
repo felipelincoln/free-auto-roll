@@ -3,7 +3,6 @@
 
 It auto checks the option **Roll without captcha** and then clicks
 the button **ROLL**.  
-The script tries to perform this action every 5 minutes. XD
 
 ## Installing on Chrome
 0. `git clone https://github.com/felipelincoln/free-auto-roll.git`
