@@ -1,6 +1,8 @@
 # Free-auto-roll
 > freebitco.in auto roll google chrome extension.
 
+![](https://i.ibb.co/pPxXbYL/Screenshot-from-2021-08-23-21-24-03.png)
+
 It auto checks the option **Roll without captcha** and then clicks
 the button **ROLL**.  
 
