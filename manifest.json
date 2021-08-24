@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["*://freebitco.in/"],
+      "matches": ["*://freebitco.in/*"],
       "js": ["script.js"]
     }
   ]
