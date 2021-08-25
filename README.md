@@ -5,6 +5,7 @@
 
 It auto checks the option **Roll without captcha** and then clicks
 the button **ROLL**.  
+*Warning: It costs RP each roll, increasing the cost by 1 every roll.*
 
 ## Installing on Chrome
 0. `git clone https://github.com/felipelincoln/free-auto-roll.git`
